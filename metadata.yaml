@@ -1,0 +1,31 @@
+_repo: The-curiosities-of-food-b-The-dainties-and-delicacies-of-different-nations-obtained-from-the-__71509
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simmonds, P. L. (Peter Lund)
+    alias: Simmonds, Peter Lund
+    birthdate: 1814
+    deathdate: 1897
+    gutenberg_agent_id: '5910'
+    url: http://www.gutenberg.org/2009/agents/5910
+description: ''
+gutenberg_issued: '2023-08-28'
+identifiers:
+  gutenberg: '71509'
+language: en
+pgterms:marc904: https://archive.org/details/b21504805/
+pgterms:marc905: 20230424054615simmonds
+pgterms:marc906: '1859'
+pgterms:marc907: gb
+production_note: Alan, Aaron Adrignola and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bRichard Bentley, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The curiosities of food : $b The dainties and delicacies of different nations
+  obtained from the animal kingdom'
+url: http://www.gutenberg.org/ebooks/71509
