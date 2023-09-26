@@ -1,5 +1,8 @@
 _repo: The-curiosities-of-food-b-The-dainties-and-delicacies-of-different-nations-obtained-from-the-__71509
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71509-h/images/cover.jpg
 creator:
   author:
     agent_name: Simmonds, P. L. (Peter Lund)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '5910'
     url: http://www.gutenberg.org/2009/agents/5910
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71509#The-curiosities-of-food-b-The-dainties-and-delicacies-of-different-nations-obtained-from-the-_
 gutenberg_issued: '2023-08-28'
 identifiers:
   gutenberg: '71509'
